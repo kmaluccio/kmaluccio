@@ -2,7 +2,7 @@
 - I am living in Austin, TX and love exploring the city, trying new restaurants, goint to comedy shows, and finding new places to hike/run
 - My math interests are applied algebraic geometry, algebraic statistics, and data science
 - I’m currently learning JavaScript and continuing to work in both Macaulay2 and Python so reach out if you want to collaborate
-- Lastly, I am on the job market, so feel free to contact me about any available opportunities
+- Lastly, I am on the job market so feel free to contact me at kmaluccio@tamu.edu about any available opportunities; I'd love to connect!
 
 <!---
 kmaluccio/kmaluccio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
